@@ -37,7 +37,8 @@ font-family: 'Work Sans', sans-serif;*/
 .opacity{
 	background:rgba(0,0,0,.6);
 	border-radius:10px;
-	padding-bottom: 110px;
+    height:91vh;
+	
 }
 
 .bg-text h3{
